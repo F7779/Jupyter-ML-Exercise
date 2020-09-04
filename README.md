@@ -1,2 +1,2 @@
-# comp255-assignment-1
+# Jupyter ML Exercise.
 pandas
